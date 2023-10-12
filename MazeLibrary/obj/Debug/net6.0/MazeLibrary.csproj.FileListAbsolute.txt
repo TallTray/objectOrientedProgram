@@ -1,0 +1,5 @@
+D:\Repositories\RadilovProject\MazeLibrary\obj\Debug\net6.0\MazeLibrary.csproj.AssemblyReference.cache
+D:\Repositories\RadilovProject\MazeLibrary\obj\Debug\net6.0\MazeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RadilovProject\MazeLibrary\obj\Debug\net6.0\MazeLibrary.AssemblyInfoInputs.cache
+D:\Repositories\RadilovProject\MazeLibrary\obj\Debug\net6.0\MazeLibrary.AssemblyInfo.cs
+D:\Repositories\RadilovProject\MazeLibrary\obj\Debug\net6.0\MazeLibrary.csproj.CoreCompileInputs.cache

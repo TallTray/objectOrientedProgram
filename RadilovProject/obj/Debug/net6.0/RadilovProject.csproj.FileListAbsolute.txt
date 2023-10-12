@@ -1,0 +1,5 @@
+D:\Repositories\RadilovProject\RadilovProject\obj\Debug\net6.0\RadilovProject.csproj.AssemblyReference.cache
+D:\Repositories\RadilovProject\RadilovProject\obj\Debug\net6.0\RadilovProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RadilovProject\RadilovProject\obj\Debug\net6.0\RadilovProject.AssemblyInfoInputs.cache
+D:\Repositories\RadilovProject\RadilovProject\obj\Debug\net6.0\RadilovProject.AssemblyInfo.cs
+D:\Repositories\RadilovProject\RadilovProject\obj\Debug\net6.0\RadilovProject.csproj.CoreCompileInputs.cache

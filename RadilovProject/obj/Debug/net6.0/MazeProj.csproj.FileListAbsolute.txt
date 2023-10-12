@@ -1,0 +1,15 @@
+D:\Repositories\RadilovProject\RadilovProject\bin\Debug\net6.0\MazeProj.exe
+D:\Repositories\RadilovProject\RadilovProject\bin\Debug\net6.0\MazeProj.deps.json
+D:\Repositories\RadilovProject\RadilovProject\bin\Debug\net6.0\MazeProj.runtimeconfig.json
+D:\Repositories\RadilovProject\RadilovProject\bin\Debug\net6.0\MazeProj.dll
+D:\Repositories\RadilovProject\RadilovProject\bin\Debug\net6.0\MazeProj.pdb
+D:\Repositories\RadilovProject\RadilovProject\obj\Debug\net6.0\MazeProj.csproj.AssemblyReference.cache
+D:\Repositories\RadilovProject\RadilovProject\obj\Debug\net6.0\MazeProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RadilovProject\RadilovProject\obj\Debug\net6.0\MazeProj.AssemblyInfoInputs.cache
+D:\Repositories\RadilovProject\RadilovProject\obj\Debug\net6.0\MazeProj.AssemblyInfo.cs
+D:\Repositories\RadilovProject\RadilovProject\obj\Debug\net6.0\MazeProj.csproj.CoreCompileInputs.cache
+D:\Repositories\RadilovProject\RadilovProject\obj\Debug\net6.0\MazeProj.dll
+D:\Repositories\RadilovProject\RadilovProject\obj\Debug\net6.0\refint\MazeProj.dll
+D:\Repositories\RadilovProject\RadilovProject\obj\Debug\net6.0\MazeProj.pdb
+D:\Repositories\RadilovProject\RadilovProject\obj\Debug\net6.0\MazeProj.genruntimeconfig.cache
+D:\Repositories\RadilovProject\RadilovProject\obj\Debug\net6.0\ref\MazeProj.dll
