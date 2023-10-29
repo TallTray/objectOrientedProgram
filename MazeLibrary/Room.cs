@@ -29,6 +29,15 @@ namespace RadilovProject
         {
             Sides.Add(direction, side);
         }
-
+        public IMapSite Clone()
+        {
+            Room room = new(RoomNumber);
+            foreach(var el in Sides)
+            {
+                room.SetSide(el.Key, el.Value.Clone());
+            }
+            
+            return new Room(RoomNumber);
+        }
     }
 }

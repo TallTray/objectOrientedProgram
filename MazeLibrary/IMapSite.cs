@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace RadilovProject
 {
-    public interface IMapSite
+    public interface IMapSite 
     {
-        void Enter();
+        public void Enter();
+        public IMapSite Clone();
     }
 }

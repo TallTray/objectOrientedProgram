@@ -10,16 +10,43 @@ namespace RadilovProject
     public class Door : IMapSite
     {
         public bool IsOpen { get; internal set; }
-        protected Room FirstRoom { get; init; }
-        protected Room SecondRoom { get; init; }
+        protected Room FirstRoom { get; private set; }
+        protected Room SecondRoom { get; private set; }
 
         public Door(bool opened, Room firstRoom, Room secondRoom)
         {
+            if(firstRoom==null || secondRoom == null)
+            {
+                throw new ArgumentNullException();
+            }
+            if(firstRoom.RoomNumber == secondRoom.RoomNumber)
+            {
+                throw new ArgumentException("Rooms must be different");
+            }
             this.FirstRoom = firstRoom;
             this.SecondRoom = secondRoom;
             IsOpen = opened;
         }
+        public void SetRoom(bool firstRoom,Room room)
+        {
+            if(room == null)
+            {
+                throw new ArgumentNullException();
+            }
+            else if (firstRoom)
+            {
+                FirstRoom = room;
+            }
+            else
+            {
+                SecondRoom = room;
+            }
 
+        }
+        public void SetOpened(bool opened)
+        {
+            IsOpen = opened;
+        }
         public void Enter()
         {
             if (IsOpen)
@@ -44,6 +71,10 @@ namespace RadilovProject
                 return FirstRoom;
             }
             else throw new ArgumentOutOfRangeException();
+        }
+        public IMapSite Clone()
+        {
+            return new Door(IsOpen, FirstRoom, SecondRoom);
         }
     }
 }

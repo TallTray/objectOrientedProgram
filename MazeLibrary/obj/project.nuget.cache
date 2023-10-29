@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IIC1NMhtMRZ2aGXPzWhtuEmBBU3gU5cpfVAI2jApjUBFVAkxDOxeB4flADR4dHfywar3dNVPJ0OSGBnPUSNeog==",
+  "dgSpecHash": "ohNIKkGehA0vA2zJWl5ajuir+6wjpvkqg48vRCr6zxy0teM5oFgfGGxBPb0AAnFX3qOEblYGKFhQZUmnrAQpDg==",
   "success": true,
-  "projectFilePath": "D:\\Repositories\\RadilovProject\\MazeLibrary\\MazeLibrary.csproj",
+  "projectFilePath": "D:\\Repositories\\objectOrientedProgram\\MazeLibrary\\MazeLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

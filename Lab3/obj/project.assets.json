@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\RadilovProject\\Lab3\\Lab3.csproj",
+      "projectUniqueName": "D:\\Repositories\\objectOrientedProgram\\Lab3\\Lab3.csproj",
       "projectName": "Lab3",
-      "projectPath": "D:\\Repositories\\RadilovProject\\Lab3\\Lab3.csproj",
+      "projectPath": "D:\\Repositories\\objectOrientedProgram\\Lab3\\Lab3.csproj",
       "packagesPath": "C:\\Users\\NITRO\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\RadilovProject\\Lab3\\obj\\",
+      "outputPath": "D:\\Repositories\\objectOrientedProgram\\Lab3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NITRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Repositories\\RadilovProject\\MazeLibrary\\MazeLibrary.csproj": {
-              "projectPath": "D:\\Repositories\\RadilovProject\\MazeLibrary\\MazeLibrary.csproj"
+            "D:\\Repositories\\objectOrientedProgram\\MazeLibrary\\MazeLibrary.csproj": {
+              "projectPath": "D:\\Repositories\\objectOrientedProgram\\MazeLibrary\\MazeLibrary.csproj"
             }
           }
         }

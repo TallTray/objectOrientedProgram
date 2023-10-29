@@ -16,7 +16,7 @@ namespace MazeProj
         public override void Enter()
         {
             base.Enter();
-            Random rnd = new();
+            
             if (rnd.Next(2) == 0)
             {
                 Console.WriteLine("Все двери закрылись!");

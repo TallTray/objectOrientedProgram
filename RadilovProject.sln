@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MazeLibrary", "MazeLibrary\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab2", "Lab2\Lab2.csproj", "{DA96CF35-B82F-4585-B8FF-4C3536B58764}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3", "Lab3\Lab3.csproj", "{8E20F186-9D94-4295-B53A-BA45C9A69848}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab3", "Lab3\Lab3.csproj", "{8E20F186-9D94-4295-B53A-BA45C9A69848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4", "Lab4\Lab4.csproj", "{928D0AF5-C008-410F-9A07-B02239E9589B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{8E20F186-9D94-4295-B53A-BA45C9A69848}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E20F186-9D94-4295-B53A-BA45C9A69848}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E20F186-9D94-4295-B53A-BA45C9A69848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{928D0AF5-C008-410F-9A07-B02239E9589B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928D0AF5-C008-410F-9A07-B02239E9589B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928D0AF5-C008-410F-9A07-B02239E9589B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928D0AF5-C008-410F-9A07-B02239E9589B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

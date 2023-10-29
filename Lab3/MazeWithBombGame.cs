@@ -12,6 +12,10 @@ namespace Lab3
     {
         public override Room BuildRoom(int number)
         {
+            if (Maze.ContainsNumber(number))
+            {
+                throw new ArgumentException("Maze already contains room with this number");
+            }
             RoomWithBomb room = new(number);
             return room;
         }

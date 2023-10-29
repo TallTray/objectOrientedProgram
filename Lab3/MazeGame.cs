@@ -39,12 +39,20 @@ namespace Lab3
 
         public virtual Room BuildRoom(int number)
         {
+            if (Maze.ContainsNumber(number))
+            {
+                throw new ArgumentException("Maze already contains room with this number");
+            }
             Room room = new(number);
             Maze.AddRoom(room);
             return room;
         }
         public virtual Door BuildDoor(int room1, int room2, bool opened)
         {
+            if (Maze.ContainsNumber(room1) || Maze.ContainsNumber(room2))
+            {
+                throw new ArgumentOutOfRangeException();
+            }
             return new Door(opened, Maze.RoomNo(room1), Maze.RoomNo(room2));
         }
         public virtual Wall BuildWall()
