@@ -1,0 +1,5 @@
+D:\Repositories\objectOrientedProgram\Lab5(Singleton)\obj\Debug\net6.0\Lab5(Singleton).csproj.AssemblyReference.cache
+D:\Repositories\objectOrientedProgram\Lab5(Singleton)\obj\Debug\net6.0\Lab5(Singleton).GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\objectOrientedProgram\Lab5(Singleton)\obj\Debug\net6.0\Lab5(Singleton).AssemblyInfoInputs.cache
+D:\Repositories\objectOrientedProgram\Lab5(Singleton)\obj\Debug\net6.0\Lab5(Singleton).AssemblyInfo.cs
+D:\Repositories\objectOrientedProgram\Lab5(Singleton)\obj\Debug\net6.0\Lab5(Singleton).csproj.CoreCompileInputs.cache

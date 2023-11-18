@@ -21,5 +21,9 @@ namespace MazeProj
                 base.Enter();
             }
         }
+        public override IMapSite Clone()
+        {
+            return new WallWithBomb();
+        }
     }
 }

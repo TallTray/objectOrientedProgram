@@ -3,15 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab1", "RadilovProject\Lab1.csproj", "{59F2B699-4C2B-443E-B3E4-362CF4BE8EF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab1(AbstractFactory)", "RadilovProject\Lab1(AbstractFactory).csproj", "{59F2B699-4C2B-443E-B3E4-362CF4BE8EF1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MazeLibrary", "MazeLibrary\MazeLibrary.csproj", "{7589DAAE-082C-4C49-9FEC-EACB81110F9C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab2", "Lab2\Lab2.csproj", "{DA96CF35-B82F-4585-B8FF-4C3536B58764}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab2(Builder)", "Lab2\Lab2(Builder).csproj", "{DA96CF35-B82F-4585-B8FF-4C3536B58764}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab3", "Lab3\Lab3.csproj", "{8E20F186-9D94-4295-B53A-BA45C9A69848}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab3(Factory Method)", "Lab3\Lab3(Factory Method).csproj", "{8E20F186-9D94-4295-B53A-BA45C9A69848}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4", "Lab4\Lab4.csproj", "{928D0AF5-C008-410F-9A07-B02239E9589B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab4(Prototype)", "Lab4\Lab4(Prototype).csproj", "{928D0AF5-C008-410F-9A07-B02239E9589B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5(Singleton)", "Lab5(Singleton)\Lab5(Singleton).csproj", "{6BCBD85B-CFEA-43F1-9598-0728A34FA4E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6(Adapter)", "Lab6(Adapter)\Lab6(Adapter).csproj", "{6EC8C1DC-E8A1-4F57-A6FA-B9B7566B5D98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7(Bridge)", "Lab7(Bridge)\Lab7(Bridge).csproj", "{413F2214-0659-4738-9887-22F364485E12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{928D0AF5-C008-410F-9A07-B02239E9589B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{928D0AF5-C008-410F-9A07-B02239E9589B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{928D0AF5-C008-410F-9A07-B02239E9589B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BCBD85B-CFEA-43F1-9598-0728A34FA4E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BCBD85B-CFEA-43F1-9598-0728A34FA4E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BCBD85B-CFEA-43F1-9598-0728A34FA4E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BCBD85B-CFEA-43F1-9598-0728A34FA4E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC8C1DC-E8A1-4F57-A6FA-B9B7566B5D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC8C1DC-E8A1-4F57-A6FA-B9B7566B5D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC8C1DC-E8A1-4F57-A6FA-B9B7566B5D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC8C1DC-E8A1-4F57-A6FA-B9B7566B5D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{413F2214-0659-4738-9887-22F364485E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{413F2214-0659-4738-9887-22F364485E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{413F2214-0659-4738-9887-22F364485E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{413F2214-0659-4738-9887-22F364485E12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

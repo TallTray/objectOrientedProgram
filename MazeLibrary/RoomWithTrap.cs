@@ -13,6 +13,16 @@ namespace MazeProj
         public RoomWithTrap(int roomNumber) : base(roomNumber)
         {
         }
+        public override IMapSite Clone()
+        {
+            RoomWithTrap room = new(RoomNumber);
+            foreach (var el in Sides)
+            {
+                room.SetSide(el.Key, el.Value.Clone());
+            }
+
+            return new RoomWithTrap(RoomNumber);
+        }
         public override void Enter()
         {
             base.Enter();

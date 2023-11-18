@@ -15,7 +15,17 @@ namespace MazeProj
 
         }
 
+        public override IMapSite Clone()
+        {
+            RoomWithBomb room = new(RoomNumber);
+            foreach (var el in Sides)
+            {
+                room.SetSide(el.Key, el.Value.Clone());
+            }
 
+            return new RoomWithBomb(RoomNumber);
+        }
+       
         public override void Enter()
         {
             base.Enter();

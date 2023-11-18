@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\objectOrientedProgram\\RadilovProject\\Lab1.csproj",
-      "projectName": "Lab1",
-      "projectPath": "D:\\Repositories\\objectOrientedProgram\\RadilovProject\\Lab1.csproj",
+      "projectUniqueName": "D:\\Repositories\\objectOrientedProgram\\RadilovProject\\Lab1(AbstractFactory).csproj",
+      "projectName": "Lab1(AbstractFactory)",
+      "projectPath": "D:\\Repositories\\objectOrientedProgram\\RadilovProject\\Lab1(AbstractFactory).csproj",
       "packagesPath": "C:\\Users\\NITRO\\.nuget\\packages\\",
       "outputPath": "D:\\Repositories\\objectOrientedProgram\\RadilovProject\\obj\\",
       "projectStyle": "PackageReference",

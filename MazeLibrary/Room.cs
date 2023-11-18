@@ -8,7 +8,7 @@ namespace RadilovProject
 {
     public class Room : IMapSite
     {
-        public int RoomNumber { get; private init; }
+        public int RoomNumber { get; private set; }
         protected Dictionary<Direction, IMapSite> Sides { get; private set; }
         public virtual void Enter()
         {
@@ -29,7 +29,11 @@ namespace RadilovProject
         {
             Sides.Add(direction, side);
         }
-        public IMapSite Clone()
+        public void SetRoomNo(int roomNumber)
+        {
+            RoomNumber = roomNumber;
+        }
+        public virtual IMapSite Clone()
         {
             Room room = new(RoomNumber);
             foreach(var el in Sides)

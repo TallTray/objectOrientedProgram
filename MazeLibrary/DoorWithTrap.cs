@@ -13,6 +13,10 @@ namespace MazeProj
         public DoorWithTrap(bool opened, Room firstRoom, Room secondRoom) : base(opened, firstRoom, secondRoom)
         {
         }
+        public override IMapSite Clone()
+        {
+            return new DoorWithTrap(IsOpen, FirstRoom, SecondRoom);
+        }
         public void Lock()
         {
             Locked = true;

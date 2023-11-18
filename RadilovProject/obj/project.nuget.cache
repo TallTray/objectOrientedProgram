@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GVi/mCDpZlLeUT4+UdoCciXmUkSsukU6oh8/W1HXOmEUTtdZrgiEyjVqXkIdCui13XV2iBtBM/0f9ufDXVxyLw==",
+  "dgSpecHash": "HQqNYNi2EASz/ZEgv+U60N377XtkZUcR7Jsujo7bVU8Y0b8MZQxZ3RW6cOddhb3uoeZaQI2l/sL6D+DNdaijkg==",
   "success": true,
-  "projectFilePath": "D:\\Repositories\\objectOrientedProgram\\RadilovProject\\Lab1.csproj",
+  "projectFilePath": "D:\\Repositories\\objectOrientedProgram\\RadilovProject\\Lab1(AbstractFactory).csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

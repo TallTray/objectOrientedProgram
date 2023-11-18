@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\objectOrientedProgram\\Lab3\\Lab3.csproj",
-      "projectName": "Lab3",
-      "projectPath": "D:\\Repositories\\objectOrientedProgram\\Lab3\\Lab3.csproj",
+      "projectUniqueName": "D:\\Repositories\\objectOrientedProgram\\Lab3\\Lab3(Factory Method).csproj",
+      "projectName": "Lab3(Factory Method)",
+      "projectPath": "D:\\Repositories\\objectOrientedProgram\\Lab3\\Lab3(Factory Method).csproj",
       "packagesPath": "C:\\Users\\NITRO\\.nuget\\packages\\",
       "outputPath": "D:\\Repositories\\objectOrientedProgram\\Lab3\\obj\\",
       "projectStyle": "PackageReference",

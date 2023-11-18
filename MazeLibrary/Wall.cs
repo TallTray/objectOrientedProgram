@@ -12,7 +12,8 @@ namespace RadilovProject
         {
             Console.WriteLine("Вы уткнулись в стену");
         }
-        public IMapSite Clone()
+
+        public virtual IMapSite Clone()
         {
             return new Wall();
         }

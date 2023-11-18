@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Lab5_Singleton_</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MazeLibrary\MazeLibrary.csproj" />
+    <ProjectReference Include="..\RadilovProject\Lab1(AbstractFactory).csproj" />
+  </ItemGroup>
+
+</Project>

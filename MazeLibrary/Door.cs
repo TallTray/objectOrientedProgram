@@ -72,9 +72,10 @@ namespace RadilovProject
             }
             else throw new ArgumentOutOfRangeException();
         }
-        public IMapSite Clone()
+        public virtual IMapSite Clone()
         {
             return new Door(IsOpen, FirstRoom, SecondRoom);
         }
+
     }
 }

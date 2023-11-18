@@ -34,5 +34,9 @@ namespace RadilovProject
         {
             return rooms.ContainsKey(number);
         }
+        public Maze Clone()
+        {
+            return new Maze();
+        }
     }
 }

@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\objectOrientedProgram\\Lab2\\Lab2.csproj",
-      "projectName": "Lab2",
-      "projectPath": "D:\\Repositories\\objectOrientedProgram\\Lab2\\Lab2.csproj",
+      "projectUniqueName": "D:\\Repositories\\objectOrientedProgram\\Lab2\\Lab2(Builder).csproj",
+      "projectName": "Lab2(Builder)",
+      "projectPath": "D:\\Repositories\\objectOrientedProgram\\Lab2\\Lab2(Builder).csproj",
       "packagesPath": "C:\\Users\\NITRO\\.nuget\\packages\\",
       "outputPath": "D:\\Repositories\\objectOrientedProgram\\Lab2\\obj\\",
       "projectStyle": "PackageReference",
