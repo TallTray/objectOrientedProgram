@@ -6,17 +6,18 @@ using System.Threading.Tasks;
 
 namespace Lab8_Composite_
 {
-    public class Menu : MenuComp
+    public class MenuSection : MenuComp
     {
-
-        public Menu() 
+        public string Name { get; init; }
+        public MenuSection(string name)
         {
             list = new();
+            Name = name;
         }
         public override void AddMenuComp(MenuComp menu)
         {
             _ = menu ?? throw new ArgumentNullException(nameof(menu));
-            if((Menu)menu != null)
+            if ((Menu)menu != null)
             {
                 throw new InvalidOperationException("Menu cannot contain another menu");
             }
@@ -37,7 +38,7 @@ namespace Lab8_Composite_
         }
         public override void Print()
         {
-            Console.WriteLine("Меню:");
+            Console.WriteLine(Name);
             list.ForEach(x => x.Print());
         }
     }

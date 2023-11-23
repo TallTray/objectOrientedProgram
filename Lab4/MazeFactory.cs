@@ -1,18 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
 
 namespace RadilovProject
 {
     public class MazeFactory
     {
-        private Room _room;
-        private Door _door;
-        private Wall _wall;
-        private Maze _maze;
+        protected Room _room { get; init; }
+        protected Door _door { get; init; }
+        protected Wall _wall { get; init; }
+        protected Maze _maze { get; init; }
         public MazeFactory()
         {
             _room = new Room(0);
