@@ -5,11 +5,6 @@ namespace MazeProj
 {
     public class MazeWithTrapFactory : MazeFactory
     {
-        public MazeWithTrapFactory() : base()
-        {
-            _room = new RoomWithTrap(0);
-            _door = new DoorWithTrap(true, new Room(0), new Room(1));
-        }
-      
+        public MazeWithTrapFactory() : base(new RoomWithTrap(0), new DoorWithTrap(false, new Room(0), new Room(1)), new Wall(), new Maze()) { }
     }
 }

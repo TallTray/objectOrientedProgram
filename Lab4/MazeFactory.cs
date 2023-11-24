@@ -5,17 +5,18 @@ namespace RadilovProject
 {
     public class MazeFactory
     {
-        protected Room _room { get; init; }
-        protected Door _door { get; init; }
-        protected Wall _wall { get; init; }
-        protected Maze _maze { get; init; }
-        public MazeFactory()
+        private Room _room;
+        private Door _door;
+        private Wall _wall;
+        private Maze _maze;
+        protected MazeFactory(Room room,Door door,Wall wall, Maze maze)
         {
-            _room = new Room(0);
-            _door = new Door(true, new Room(0), new Room(1));
-            _wall = new Wall();
-            _maze = new Maze();
+            _room = room;
+            _door = door;
+            _wall = wall;
+            _maze = maze;
         }
+        public MazeFactory() : this(new Room(0), new Door(false, new Room(0), new Room(1)), new Wall(), new Maze()) { }
         public virtual Room CreateRoom(int roomNo)
         {
             Room room = (Room)_room.Clone();
