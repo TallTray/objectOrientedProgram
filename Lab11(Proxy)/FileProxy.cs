@@ -19,18 +19,18 @@ namespace Lab11_Proxy_
         }
         public double GetSize()
         {
-            return new FileInfo(_path).Length;
+            return _file == null ? new FileInfo(_path).Length : _file.GetSize();
         }
         public string GetPath()
         {
-            return _path;
+            return _file == null ? _path : _file.GetPath();
         }
         public byte[] Show()
         {
             _file ??= new File(_path);
             return _file.Show();
         }
-       public void Dispose()
+        public void Dispose()
         {
             _file?.Dispose();
         }
