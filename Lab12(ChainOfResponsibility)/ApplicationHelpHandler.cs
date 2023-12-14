@@ -35,7 +35,7 @@ namespace Lab12_ChainOfResponsibility_
             { 
                 throw new ArgumentNullException(nameof(helpRequest)); 
             }
-            return $"Добро пожаловать в Калькулятор.";
+            return "Добро пожаловать в Калькулятор";
         }
     }
 }

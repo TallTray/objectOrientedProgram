@@ -26,7 +26,7 @@ namespace Lab12_ChainOfResponsibility_
             { 
                 throw new ArgumentNullException(nameof(helpRequest)); 
             }
-            return "Кнопка операции " + helpRequest.Symbol.ToString()
+            return "Кнопка операции " + helpRequest.Symbol.ToString();
         }
 
         protected override string BuildDefaultHelpString(HelpRequest helpRequest)
