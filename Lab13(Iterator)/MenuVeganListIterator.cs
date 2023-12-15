@@ -22,19 +22,9 @@ namespace Lab13_Iterator_
             return _items[_index];
         }
 
-        public MenuItem First()
-        {
-            return _items.LastOrDefault() ?? throw new ArgumentNullException(nameof(First));
-        }
-
-        public bool IsDone()
-        {
-            return _index == 0;
-        }
-
         public MenuItem Next()
         {
-            if (!IsDone())
+            if (_index != 0)
             {
                 if (_items[_index++].IsVegan)
                 {

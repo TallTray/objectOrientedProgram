@@ -31,7 +31,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab12(ChainOfResponsibility
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab13(Command)", "Lab13(Command)\Lab13(Command).csproj", "{C65C05FE-82A6-47C6-A329-5EB451C41660}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab13(Iterator)", "Lab13(Iterator)\Lab13(Iterator).csproj", "{EDD51F6B-EBA0-4F7A-B51B-6513C3A20C2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab14(Iterator)", "Lab13(Iterator)\Lab14(Iterator).csproj", "{EDD51F6B-EBA0-4F7A-B51B-6513C3A20C2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
