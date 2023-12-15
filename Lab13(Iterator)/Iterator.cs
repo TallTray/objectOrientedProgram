@@ -9,6 +9,7 @@ namespace Lab13_Iterator_
     public interface IIterator<T>
     {
         public T Current();
+        public bool IsNext();
         public T Next();
     }
 }

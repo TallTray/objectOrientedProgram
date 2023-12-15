@@ -20,10 +20,13 @@ namespace Lab13_Iterator_
         {
             return _items[_index];
         }
-
+        public bool IsNext()
+        {
+            return _index < _items.Length;
+        }
         public MenuItem Next()
         {
-            if (_index != _items.Length - 1)
+            if (IsNext())
             {
                 return _items[_index++];
             }
