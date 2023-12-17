@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositories\\objectOrientedProgram\\Lab10(Facade)\\Lab10(Facade).csproj": {}
+    "D:\\Repositories\\objectOrientedProgramming\\Lab10(Facade)\\Lab10(Facade).csproj": {}
   },
   "projects": {
-    "D:\\Repositories\\objectOrientedProgram\\Lab10(Facade)\\Lab10(Facade).csproj": {
+    "D:\\Repositories\\objectOrientedProgramming\\Lab10(Facade)\\Lab10(Facade).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositories\\objectOrientedProgram\\Lab10(Facade)\\Lab10(Facade).csproj",
+        "projectUniqueName": "D:\\Repositories\\objectOrientedProgramming\\Lab10(Facade)\\Lab10(Facade).csproj",
         "projectName": "Lab10(Facade)",
-        "projectPath": "D:\\Repositories\\objectOrientedProgram\\Lab10(Facade)\\Lab10(Facade).csproj",
+        "projectPath": "D:\\Repositories\\objectOrientedProgramming\\Lab10(Facade)\\Lab10(Facade).csproj",
         "packagesPath": "C:\\Users\\NITRO\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositories\\objectOrientedProgram\\Lab10(Facade)\\obj\\",
+        "outputPath": "D:\\Repositories\\objectOrientedProgramming\\Lab10(Facade)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NITRO\\AppData\\Roaming\\NuGet\\NuGet.Config",

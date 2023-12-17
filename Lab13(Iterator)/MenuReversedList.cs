@@ -22,6 +22,10 @@ namespace Lab13_Iterator_
         {
             return _items[_index];
         }
+        public bool IsNext()
+        {
+            return _index !=0;
+        }
         public MenuItem Next()
         {
             if (_index != 0)

@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\objectOrientedProgram\\Lab5(Singleton)\\Lab5(Singleton).csproj",
+      "projectUniqueName": "D:\\Repositories\\objectOrientedProgramming\\Lab5(Singleton)\\Lab5(Singleton).csproj",
       "projectName": "Lab5(Singleton)",
-      "projectPath": "D:\\Repositories\\objectOrientedProgram\\Lab5(Singleton)\\Lab5(Singleton).csproj",
+      "projectPath": "D:\\Repositories\\objectOrientedProgramming\\Lab5(Singleton)\\Lab5(Singleton).csproj",
       "packagesPath": "C:\\Users\\NITRO\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\objectOrientedProgram\\Lab5(Singleton)\\obj\\",
+      "outputPath": "D:\\Repositories\\objectOrientedProgramming\\Lab5(Singleton)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NITRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,11 +72,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Repositories\\objectOrientedProgram\\MazeLibrary\\MazeLibrary.csproj": {
-              "projectPath": "D:\\Repositories\\objectOrientedProgram\\MazeLibrary\\MazeLibrary.csproj"
+            "D:\\Repositories\\objectOrientedProgramming\\MazeLibrary\\MazeLibrary.csproj": {
+              "projectPath": "D:\\Repositories\\objectOrientedProgramming\\MazeLibrary\\MazeLibrary.csproj"
             },
-            "D:\\Repositories\\objectOrientedProgram\\RadilovProject\\Lab1(AbstractFactory).csproj": {
-              "projectPath": "D:\\Repositories\\objectOrientedProgram\\RadilovProject\\Lab1(AbstractFactory).csproj"
+            "D:\\Repositories\\objectOrientedProgramming\\RadilovProject\\Lab1(AbstractFactory).csproj": {
+              "projectPath": "D:\\Repositories\\objectOrientedProgramming\\RadilovProject\\Lab1(AbstractFactory).csproj"
             }
           }
         }

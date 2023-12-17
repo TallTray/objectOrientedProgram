@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositories\\objectOrientedProgram\\Lab3\\Lab3(Factory Method).csproj": {}
+    "D:\\Repositories\\objectOrientedProgramming\\Lab3\\Lab3(Factory Method).csproj": {}
   },
   "projects": {
-    "D:\\Repositories\\objectOrientedProgram\\Lab3\\Lab3(Factory Method).csproj": {
+    "D:\\Repositories\\objectOrientedProgramming\\Lab3\\Lab3(Factory Method).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositories\\objectOrientedProgram\\Lab3\\Lab3(Factory Method).csproj",
+        "projectUniqueName": "D:\\Repositories\\objectOrientedProgramming\\Lab3\\Lab3(Factory Method).csproj",
         "projectName": "Lab3(Factory Method)",
-        "projectPath": "D:\\Repositories\\objectOrientedProgram\\Lab3\\Lab3(Factory Method).csproj",
+        "projectPath": "D:\\Repositories\\objectOrientedProgramming\\Lab3\\Lab3(Factory Method).csproj",
         "packagesPath": "C:\\Users\\NITRO\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositories\\objectOrientedProgram\\Lab3\\obj\\",
+        "outputPath": "D:\\Repositories\\objectOrientedProgramming\\Lab3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NITRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Repositories\\objectOrientedProgram\\MazeLibrary\\MazeLibrary.csproj": {
-                "projectPath": "D:\\Repositories\\objectOrientedProgram\\MazeLibrary\\MazeLibrary.csproj"
+              "D:\\Repositories\\objectOrientedProgramming\\MazeLibrary\\MazeLibrary.csproj": {
+                "projectPath": "D:\\Repositories\\objectOrientedProgramming\\MazeLibrary\\MazeLibrary.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "D:\\Repositories\\objectOrientedProgram\\MazeLibrary\\MazeLibrary.csproj": {
+    "D:\\Repositories\\objectOrientedProgramming\\MazeLibrary\\MazeLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositories\\objectOrientedProgram\\MazeLibrary\\MazeLibrary.csproj",
+        "projectUniqueName": "D:\\Repositories\\objectOrientedProgramming\\MazeLibrary\\MazeLibrary.csproj",
         "projectName": "MazeLibrary",
-        "projectPath": "D:\\Repositories\\objectOrientedProgram\\MazeLibrary\\MazeLibrary.csproj",
+        "projectPath": "D:\\Repositories\\objectOrientedProgramming\\MazeLibrary\\MazeLibrary.csproj",
         "packagesPath": "C:\\Users\\NITRO\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositories\\objectOrientedProgram\\MazeLibrary\\obj\\",
+        "outputPath": "D:\\Repositories\\objectOrientedProgramming\\MazeLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NITRO\\AppData\\Roaming\\NuGet\\NuGet.Config",

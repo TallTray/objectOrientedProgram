@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\objectOrientedProgram\\Lab9(Decorator)\\Lab9(Decorator).csproj",
+      "projectUniqueName": "D:\\Repositories\\objectOrientedProgramming\\Lab9(Decorator)\\Lab9(Decorator).csproj",
       "projectName": "Lab9(Decorator)",
-      "projectPath": "D:\\Repositories\\objectOrientedProgram\\Lab9(Decorator)\\Lab9(Decorator).csproj",
+      "projectPath": "D:\\Repositories\\objectOrientedProgramming\\Lab9(Decorator)\\Lab9(Decorator).csproj",
       "packagesPath": "C:\\Users\\NITRO\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\objectOrientedProgram\\Lab9(Decorator)\\obj\\",
+      "outputPath": "D:\\Repositories\\objectOrientedProgramming\\Lab9(Decorator)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NITRO\\AppData\\Roaming\\NuGet\\NuGet.Config",

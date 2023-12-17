@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J+o9HJ6/NiJjuqbl8s0Xy+tTI++dG560EBoghEh7NjIxIo+TaWQWPcADDZMhrrPs5PAixTfWTcEFOSzCJfot1A==",
+  "dgSpecHash": "ft09rYAZzA2GT/Mzc4tNMl+wQaU6YGQOfF7ME3ScySKR4iMb1C0opVZZOX219XCC98FSkRIWsyM3aXn1R3b85w==",
   "success": true,
-  "projectFilePath": "D:\\Repositories\\objectOrientedProgram\\Lab2\\Lab2(Builder).csproj",
+  "projectFilePath": "D:\\Repositories\\objectOrientedProgramming\\Lab2\\Lab2(Builder).csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

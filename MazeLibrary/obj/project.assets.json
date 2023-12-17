@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\objectOrientedProgram\\MazeLibrary\\MazeLibrary.csproj",
+      "projectUniqueName": "D:\\Repositories\\objectOrientedProgramming\\MazeLibrary\\MazeLibrary.csproj",
       "projectName": "MazeLibrary",
-      "projectPath": "D:\\Repositories\\objectOrientedProgram\\MazeLibrary\\MazeLibrary.csproj",
+      "projectPath": "D:\\Repositories\\objectOrientedProgramming\\MazeLibrary\\MazeLibrary.csproj",
       "packagesPath": "C:\\Users\\NITRO\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\objectOrientedProgram\\MazeLibrary\\obj\\",
+      "outputPath": "D:\\Repositories\\objectOrientedProgramming\\MazeLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NITRO\\AppData\\Roaming\\NuGet\\NuGet.Config",

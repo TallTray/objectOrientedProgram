@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\objectOrientedProgram\\Lab18(State)\\Lab18(State).csproj",
+      "projectUniqueName": "D:\\Repositories\\objectOrientedProgramming\\Lab18(State)\\Lab18(State).csproj",
       "projectName": "Lab18(State)",
-      "projectPath": "D:\\Repositories\\objectOrientedProgram\\Lab18(State)\\Lab18(State).csproj",
+      "projectPath": "D:\\Repositories\\objectOrientedProgramming\\Lab18(State)\\Lab18(State).csproj",
       "packagesPath": "C:\\Users\\NITRO\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\objectOrientedProgram\\Lab18(State)\\obj\\",
+      "outputPath": "D:\\Repositories\\objectOrientedProgramming\\Lab18(State)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NITRO\\AppData\\Roaming\\NuGet\\NuGet.Config",

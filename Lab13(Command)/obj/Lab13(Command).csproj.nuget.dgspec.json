@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositories\\objectOrientedProgram\\Lab13(Command)\\Lab13(Command).csproj": {}
+    "D:\\Repositories\\objectOrientedProgramming\\Lab13(Command)\\Lab13(Command).csproj": {}
   },
   "projects": {
-    "D:\\Repositories\\objectOrientedProgram\\Lab13(Command)\\Lab13(Command).csproj": {
+    "D:\\Repositories\\objectOrientedProgramming\\Lab13(Command)\\Lab13(Command).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositories\\objectOrientedProgram\\Lab13(Command)\\Lab13(Command).csproj",
+        "projectUniqueName": "D:\\Repositories\\objectOrientedProgramming\\Lab13(Command)\\Lab13(Command).csproj",
         "projectName": "Lab13(Command)",
-        "projectPath": "D:\\Repositories\\objectOrientedProgram\\Lab13(Command)\\Lab13(Command).csproj",
+        "projectPath": "D:\\Repositories\\objectOrientedProgramming\\Lab13(Command)\\Lab13(Command).csproj",
         "packagesPath": "C:\\Users\\NITRO\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositories\\objectOrientedProgram\\Lab13(Command)\\obj\\",
+        "outputPath": "D:\\Repositories\\objectOrientedProgramming\\Lab13(Command)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NITRO\\AppData\\Roaming\\NuGet\\NuGet.Config",

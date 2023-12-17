@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\objectOrientedProgram\\Lab13(Iterator)\\Lab14(Iterator).csproj",
+      "projectUniqueName": "D:\\Repositories\\objectOrientedProgramming\\Lab13(Iterator)\\Lab14(Iterator).csproj",
       "projectName": "Lab14(Iterator)",
-      "projectPath": "D:\\Repositories\\objectOrientedProgram\\Lab13(Iterator)\\Lab14(Iterator).csproj",
+      "projectPath": "D:\\Repositories\\objectOrientedProgramming\\Lab13(Iterator)\\Lab14(Iterator).csproj",
       "packagesPath": "C:\\Users\\NITRO\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\objectOrientedProgram\\Lab13(Iterator)\\obj\\",
+      "outputPath": "D:\\Repositories\\objectOrientedProgramming\\Lab13(Iterator)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NITRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Repositories\\objectOrientedProgram\\Lab8(Composite)\\Lab8(Composite).csproj": {
-              "projectPath": "D:\\Repositories\\objectOrientedProgram\\Lab8(Composite)\\Lab8(Composite).csproj"
+            "D:\\Repositories\\objectOrientedProgramming\\Lab8(Composite)\\Lab8(Composite).csproj": {
+              "projectPath": "D:\\Repositories\\objectOrientedProgramming\\Lab8(Composite)\\Lab8(Composite).csproj"
             }
           }
         }

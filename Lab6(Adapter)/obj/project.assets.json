@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\objectOrientedProgram\\Lab6(Adapter)\\Lab6(Adapter).csproj",
+      "projectUniqueName": "D:\\Repositories\\objectOrientedProgramming\\Lab6(Adapter)\\Lab6(Adapter).csproj",
       "projectName": "Lab6(Adapter)",
-      "projectPath": "D:\\Repositories\\objectOrientedProgram\\Lab6(Adapter)\\Lab6(Adapter).csproj",
+      "projectPath": "D:\\Repositories\\objectOrientedProgramming\\Lab6(Adapter)\\Lab6(Adapter).csproj",
       "packagesPath": "C:\\Users\\NITRO\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\objectOrientedProgram\\Lab6(Adapter)\\obj\\",
+      "outputPath": "D:\\Repositories\\objectOrientedProgramming\\Lab6(Adapter)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NITRO\\AppData\\Roaming\\NuGet\\NuGet.Config",

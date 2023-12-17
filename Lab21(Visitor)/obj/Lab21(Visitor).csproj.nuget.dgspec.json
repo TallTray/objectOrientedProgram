@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositories\\objectOrientedProgram\\Lab21(Visitor)\\Lab21(Visitor).csproj": {}
+    "D:\\Repositories\\objectOrientedProgramming\\Lab21(Visitor)\\Lab21(Visitor).csproj": {}
   },
   "projects": {
-    "D:\\Repositories\\objectOrientedProgram\\Lab21(Visitor)\\Lab21(Visitor).csproj": {
+    "D:\\Repositories\\objectOrientedProgramming\\Lab21(Visitor)\\Lab21(Visitor).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositories\\objectOrientedProgram\\Lab21(Visitor)\\Lab21(Visitor).csproj",
+        "projectUniqueName": "D:\\Repositories\\objectOrientedProgramming\\Lab21(Visitor)\\Lab21(Visitor).csproj",
         "projectName": "Lab21(Visitor)",
-        "projectPath": "D:\\Repositories\\objectOrientedProgram\\Lab21(Visitor)\\Lab21(Visitor).csproj",
+        "projectPath": "D:\\Repositories\\objectOrientedProgramming\\Lab21(Visitor)\\Lab21(Visitor).csproj",
         "packagesPath": "C:\\Users\\NITRO\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositories\\objectOrientedProgram\\Lab21(Visitor)\\obj\\",
+        "outputPath": "D:\\Repositories\\objectOrientedProgramming\\Lab21(Visitor)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NITRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Repositories\\objectOrientedProgram\\Lab8(Composite)\\Lab8(Composite).csproj": {
-                "projectPath": "D:\\Repositories\\objectOrientedProgram\\Lab8(Composite)\\Lab8(Composite).csproj"
+              "D:\\Repositories\\objectOrientedProgramming\\Lab8(Composite)\\Lab8(Composite).csproj": {
+                "projectPath": "D:\\Repositories\\objectOrientedProgramming\\Lab8(Composite)\\Lab8(Composite).csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "D:\\Repositories\\objectOrientedProgram\\Lab8(Composite)\\Lab8(Composite).csproj": {
+    "D:\\Repositories\\objectOrientedProgramming\\Lab8(Composite)\\Lab8(Composite).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositories\\objectOrientedProgram\\Lab8(Composite)\\Lab8(Composite).csproj",
+        "projectUniqueName": "D:\\Repositories\\objectOrientedProgramming\\Lab8(Composite)\\Lab8(Composite).csproj",
         "projectName": "Lab8(Composite)",
-        "projectPath": "D:\\Repositories\\objectOrientedProgram\\Lab8(Composite)\\Lab8(Composite).csproj",
+        "projectPath": "D:\\Repositories\\objectOrientedProgramming\\Lab8(Composite)\\Lab8(Composite).csproj",
         "packagesPath": "C:\\Users\\NITRO\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositories\\objectOrientedProgram\\Lab8(Composite)\\obj\\",
+        "outputPath": "D:\\Repositories\\objectOrientedProgramming\\Lab8(Composite)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NITRO\\AppData\\Roaming\\NuGet\\NuGet.Config",

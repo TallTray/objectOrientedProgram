@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositories\\objectOrientedProgram\\Lab12(ChainOfResponsibility)\\Lab12(ChainOfResponsibility).csproj": {}
+    "D:\\Repositories\\objectOrientedProgramming\\Lab12(ChainOfResponsibility)\\Lab12(ChainOfResponsibility).csproj": {}
   },
   "projects": {
-    "D:\\Repositories\\objectOrientedProgram\\Lab12(ChainOfResponsibility)\\Lab12(ChainOfResponsibility).csproj": {
+    "D:\\Repositories\\objectOrientedProgramming\\Lab12(ChainOfResponsibility)\\Lab12(ChainOfResponsibility).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositories\\objectOrientedProgram\\Lab12(ChainOfResponsibility)\\Lab12(ChainOfResponsibility).csproj",
+        "projectUniqueName": "D:\\Repositories\\objectOrientedProgramming\\Lab12(ChainOfResponsibility)\\Lab12(ChainOfResponsibility).csproj",
         "projectName": "Lab12(ChainOfResponsibility)",
-        "projectPath": "D:\\Repositories\\objectOrientedProgram\\Lab12(ChainOfResponsibility)\\Lab12(ChainOfResponsibility).csproj",
+        "projectPath": "D:\\Repositories\\objectOrientedProgramming\\Lab12(ChainOfResponsibility)\\Lab12(ChainOfResponsibility).csproj",
         "packagesPath": "C:\\Users\\NITRO\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositories\\objectOrientedProgram\\Lab12(ChainOfResponsibility)\\obj\\",
+        "outputPath": "D:\\Repositories\\objectOrientedProgramming\\Lab12(ChainOfResponsibility)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NITRO\\AppData\\Roaming\\NuGet\\NuGet.Config",

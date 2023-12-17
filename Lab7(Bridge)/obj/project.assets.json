@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\objectOrientedProgram\\Lab7(Bridge)\\Lab7(Bridge).csproj",
+      "projectUniqueName": "D:\\Repositories\\objectOrientedProgramming\\Lab7(Bridge)\\Lab7(Bridge).csproj",
       "projectName": "Lab7(Bridge)",
-      "projectPath": "D:\\Repositories\\objectOrientedProgram\\Lab7(Bridge)\\Lab7(Bridge).csproj",
+      "projectPath": "D:\\Repositories\\objectOrientedProgramming\\Lab7(Bridge)\\Lab7(Bridge).csproj",
       "packagesPath": "C:\\Users\\NITRO\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\objectOrientedProgram\\Lab7(Bridge)\\obj\\",
+      "outputPath": "D:\\Repositories\\objectOrientedProgramming\\Lab7(Bridge)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NITRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
