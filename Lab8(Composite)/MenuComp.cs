@@ -8,7 +8,7 @@ namespace Lab8_Composite_
 {
     public abstract class MenuComp
     {
-        protected List<MenuComp> list { get; init; }
+        public List<MenuComp> list { get; init; }
         public virtual void Print()
         {
             list.ForEach(x => x.Print());

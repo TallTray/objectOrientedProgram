@@ -1,0 +1,5 @@
+D:\Repositories\objectOrientedProgramming\Lab12(ChainOfResponsibility)\obj\Debug\net6.0\Lab12(ChainOfResponsibility).csproj.AssemblyReference.cache
+D:\Repositories\objectOrientedProgramming\Lab12(ChainOfResponsibility)\obj\Debug\net6.0\Lab12(ChainOfResponsibility).GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\objectOrientedProgramming\Lab12(ChainOfResponsibility)\obj\Debug\net6.0\Lab12(ChainOfResponsibility).AssemblyInfoInputs.cache
+D:\Repositories\objectOrientedProgramming\Lab12(ChainOfResponsibility)\obj\Debug\net6.0\Lab12(ChainOfResponsibility).AssemblyInfo.cs
+D:\Repositories\objectOrientedProgramming\Lab12(ChainOfResponsibility)\obj\Debug\net6.0\Lab12(ChainOfResponsibility).csproj.CoreCompileInputs.cache

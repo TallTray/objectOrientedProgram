@@ -1,0 +1,5 @@
+D:\Repositories\objectOrientedProgramming\Lab7(Bridge)\obj\Debug\net6.0\Lab7(Bridge).csproj.AssemblyReference.cache
+D:\Repositories\objectOrientedProgramming\Lab7(Bridge)\obj\Debug\net6.0\Lab7(Bridge).GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\objectOrientedProgramming\Lab7(Bridge)\obj\Debug\net6.0\Lab7(Bridge).AssemblyInfoInputs.cache
+D:\Repositories\objectOrientedProgramming\Lab7(Bridge)\obj\Debug\net6.0\Lab7(Bridge).AssemblyInfo.cs
+D:\Repositories\objectOrientedProgramming\Lab7(Bridge)\obj\Debug\net6.0\Lab7(Bridge).csproj.CoreCompileInputs.cache

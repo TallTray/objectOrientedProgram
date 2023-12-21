@@ -1,0 +1,5 @@
+D:\Repositories\objectOrientedProgramming\Lab18(State)\obj\Debug\net6.0\Lab18(State).csproj.AssemblyReference.cache
+D:\Repositories\objectOrientedProgramming\Lab18(State)\obj\Debug\net6.0\Lab18(State).GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\objectOrientedProgramming\Lab18(State)\obj\Debug\net6.0\Lab18(State).AssemblyInfoInputs.cache
+D:\Repositories\objectOrientedProgramming\Lab18(State)\obj\Debug\net6.0\Lab18(State).AssemblyInfo.cs
+D:\Repositories\objectOrientedProgramming\Lab18(State)\obj\Debug\net6.0\Lab18(State).csproj.CoreCompileInputs.cache

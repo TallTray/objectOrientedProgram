@@ -1,0 +1,5 @@
+D:\Repositories\objectOrientedProgramming\Lab10(Facade)\obj\Debug\net6.0\Lab10(Facade).csproj.AssemblyReference.cache
+D:\Repositories\objectOrientedProgramming\Lab10(Facade)\obj\Debug\net6.0\Lab10(Facade).GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\objectOrientedProgramming\Lab10(Facade)\obj\Debug\net6.0\Lab10(Facade).AssemblyInfoInputs.cache
+D:\Repositories\objectOrientedProgramming\Lab10(Facade)\obj\Debug\net6.0\Lab10(Facade).AssemblyInfo.cs
+D:\Repositories\objectOrientedProgramming\Lab10(Facade)\obj\Debug\net6.0\Lab10(Facade).csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+D:\Repositories\objectOrientedProgramming\Lab8(Composite)\obj\Debug\net6.0\Lab8(Composite).csproj.AssemblyReference.cache
+D:\Repositories\objectOrientedProgramming\Lab8(Composite)\obj\Debug\net6.0\Lab8(Composite).GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\objectOrientedProgramming\Lab8(Composite)\obj\Debug\net6.0\Lab8(Composite).AssemblyInfoInputs.cache
+D:\Repositories\objectOrientedProgramming\Lab8(Composite)\obj\Debug\net6.0\Lab8(Composite).AssemblyInfo.cs
+D:\Repositories\objectOrientedProgramming\Lab8(Composite)\obj\Debug\net6.0\Lab8(Composite).csproj.CoreCompileInputs.cache

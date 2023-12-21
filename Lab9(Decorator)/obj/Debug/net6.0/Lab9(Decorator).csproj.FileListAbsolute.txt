@@ -1,0 +1,5 @@
+D:\Repositories\objectOrientedProgramming\Lab9(Decorator)\obj\Debug\net6.0\Lab9(Decorator).csproj.AssemblyReference.cache
+D:\Repositories\objectOrientedProgramming\Lab9(Decorator)\obj\Debug\net6.0\Lab9(Decorator).GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\objectOrientedProgramming\Lab9(Decorator)\obj\Debug\net6.0\Lab9(Decorator).AssemblyInfoInputs.cache
+D:\Repositories\objectOrientedProgramming\Lab9(Decorator)\obj\Debug\net6.0\Lab9(Decorator).AssemblyInfo.cs
+D:\Repositories\objectOrientedProgramming\Lab9(Decorator)\obj\Debug\net6.0\Lab9(Decorator).csproj.CoreCompileInputs.cache

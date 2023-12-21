@@ -1,0 +1,5 @@
+D:\Repositories\objectOrientedProgramming\Lab20(Template method)\obj\Debug\net6.0\Lab20(Template method).csproj.AssemblyReference.cache
+D:\Repositories\objectOrientedProgramming\Lab20(Template method)\obj\Debug\net6.0\Lab20(Template method).GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\objectOrientedProgramming\Lab20(Template method)\obj\Debug\net6.0\Lab20(Template method).AssemblyInfoInputs.cache
+D:\Repositories\objectOrientedProgramming\Lab20(Template method)\obj\Debug\net6.0\Lab20(Template method).AssemblyInfo.cs
+D:\Repositories\objectOrientedProgramming\Lab20(Template method)\obj\Debug\net6.0\Lab20(Template method).csproj.CoreCompileInputs.cache

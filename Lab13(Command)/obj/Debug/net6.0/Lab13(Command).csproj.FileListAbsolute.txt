@@ -1,0 +1,5 @@
+D:\Repositories\objectOrientedProgramming\Lab13(Command)\obj\Debug\net6.0\Lab13(Command).csproj.AssemblyReference.cache
+D:\Repositories\objectOrientedProgramming\Lab13(Command)\obj\Debug\net6.0\Lab13(Command).GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\objectOrientedProgramming\Lab13(Command)\obj\Debug\net6.0\Lab13(Command).AssemblyInfoInputs.cache
+D:\Repositories\objectOrientedProgramming\Lab13(Command)\obj\Debug\net6.0\Lab13(Command).AssemblyInfo.cs
+D:\Repositories\objectOrientedProgramming\Lab13(Command)\obj\Debug\net6.0\Lab13(Command).csproj.CoreCompileInputs.cache

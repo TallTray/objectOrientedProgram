@@ -1,0 +1,5 @@
+D:\Repositories\objectOrientedProgramming\Lab6(Adapter)\obj\Debug\net6.0\Lab6(Adapter).csproj.AssemblyReference.cache
+D:\Repositories\objectOrientedProgramming\Lab6(Adapter)\obj\Debug\net6.0\Lab6(Adapter).GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\objectOrientedProgramming\Lab6(Adapter)\obj\Debug\net6.0\Lab6(Adapter).AssemblyInfoInputs.cache
+D:\Repositories\objectOrientedProgramming\Lab6(Adapter)\obj\Debug\net6.0\Lab6(Adapter).AssemblyInfo.cs
+D:\Repositories\objectOrientedProgramming\Lab6(Adapter)\obj\Debug\net6.0\Lab6(Adapter).csproj.CoreCompileInputs.cache

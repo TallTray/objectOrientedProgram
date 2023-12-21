@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab3(Factory Method)/1.0.0": {
+        "dependencies": {
+          "MazeLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Lab3(Factory Method).dll": {}
+        }
+      },
+      "MazeLibrary/1.0.0": {
+        "runtime": {
+          "MazeLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab3(Factory Method)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MazeLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,5 @@
+D:\Repositories\objectOrientedProgramming\Lab11(Proxy)\obj\Debug\net6.0\Lab11(Proxy).csproj.AssemblyReference.cache
+D:\Repositories\objectOrientedProgramming\Lab11(Proxy)\obj\Debug\net6.0\Lab11(Proxy).GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\objectOrientedProgramming\Lab11(Proxy)\obj\Debug\net6.0\Lab11(Proxy).AssemblyInfoInputs.cache
+D:\Repositories\objectOrientedProgramming\Lab11(Proxy)\obj\Debug\net6.0\Lab11(Proxy).AssemblyInfo.cs
+D:\Repositories\objectOrientedProgramming\Lab11(Proxy)\obj\Debug\net6.0\Lab11(Proxy).csproj.CoreCompileInputs.cache

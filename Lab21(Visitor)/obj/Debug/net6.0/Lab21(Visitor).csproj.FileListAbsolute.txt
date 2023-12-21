@@ -1,0 +1,5 @@
+D:\Repositories\objectOrientedProgramming\Lab21(Visitor)\obj\Debug\net6.0\Lab21(Visitor).csproj.AssemblyReference.cache
+D:\Repositories\objectOrientedProgramming\Lab21(Visitor)\obj\Debug\net6.0\Lab21(Visitor).GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\objectOrientedProgramming\Lab21(Visitor)\obj\Debug\net6.0\Lab21(Visitor).AssemblyInfoInputs.cache
+D:\Repositories\objectOrientedProgramming\Lab21(Visitor)\obj\Debug\net6.0\Lab21(Visitor).AssemblyInfo.cs
+D:\Repositories\objectOrientedProgramming\Lab21(Visitor)\obj\Debug\net6.0\Lab21(Visitor).csproj.CoreCompileInputs.cache

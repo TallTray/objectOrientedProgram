@@ -7,15 +7,27 @@ using System.Threading.Tasks;
 
 namespace Lab21_Visitor_
 {
-    internal class CountVeganVisiter
+    internal class CountVeganVisiter : Visitor
     {
-        public int Visit(MenuComp menu)
+        public override int Visit(MenuComp menuComp, int count = 0)
         {
-            int count = 0;
-            if (menu.GetType() == typeof(MenuItem) && ((MenuItem)menu).IsVegan)
+            int counter = count + (menuComp is MenuItem item && item.IsVegan ? 1 : 0);
+            if (menuComp is MenuSection section)
             {
-                count++;
+                foreach (var el in section.list)
+                {
+                    counter = Visit(menuComp, counter);
+                }
+
             }
+            else if (menuComp is Menu menu)
+            {
+                foreach (var el in menu.list)
+                {
+                    counter = Visit(menuComp, counter);
+                }
+            }
+            return counter;
         }
     }
 }

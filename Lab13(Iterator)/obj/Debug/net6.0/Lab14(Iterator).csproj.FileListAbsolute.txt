@@ -1,0 +1,5 @@
+D:\Repositories\objectOrientedProgramming\Lab13(Iterator)\obj\Debug\net6.0\Lab14(Iterator).csproj.AssemblyReference.cache
+D:\Repositories\objectOrientedProgramming\Lab13(Iterator)\obj\Debug\net6.0\Lab14(Iterator).GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\objectOrientedProgramming\Lab13(Iterator)\obj\Debug\net6.0\Lab14(Iterator).AssemblyInfoInputs.cache
+D:\Repositories\objectOrientedProgramming\Lab13(Iterator)\obj\Debug\net6.0\Lab14(Iterator).AssemblyInfo.cs
+D:\Repositories\objectOrientedProgramming\Lab13(Iterator)\obj\Debug\net6.0\Lab14(Iterator).csproj.CoreCompileInputs.cache

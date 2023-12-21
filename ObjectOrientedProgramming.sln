@@ -37,9 +37,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab21(Visitor)", "Lab21(Vis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab18(State)", "Lab18(State)\Lab18(State).csproj", "{B148BB2F-99AD-45AE-9123-909EC097D39B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab20(Template method)", "Lab20(Template method)\Lab20(Template method).csproj", "{4E73A934-3995-4816-A530-FB43FBFB6B3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab20(Template method)", "Lab20(Template method)\Lab20(Template method).csproj", "{4E73A934-3995-4816-A530-FB43FBFB6B3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab16(Momento)", "Lab16(Momento)\Lab16(Momento).csproj", "{7882D32C-2EF8-4F80-8126-70540B1E5E93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab16(Momento)", "Lab16(Momento)\Lab16(Momento).csproj", "{7882D32C-2EF8-4F80-8126-70540B1E5E93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab19(Strategy)", "Lab19(Strategy)\Lab19(Strategy).csproj", "{4ABAE8A0-1C1D-4EF1-8C56-BE18D6D13154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab17(Observer)", "Lab17(Observer)\Lab17(Observer).csproj", "{2E75BD3D-4320-45F4-9165-F2C8805A2DF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab15(Mediator)", "Lab15(Mediator)\Lab15(Mediator).csproj", "{6AEF2DAB-2CB4-475E-B0C4-72EED944D421}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +129,18 @@ Global
 		{7882D32C-2EF8-4F80-8126-70540B1E5E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7882D32C-2EF8-4F80-8126-70540B1E5E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7882D32C-2EF8-4F80-8126-70540B1E5E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ABAE8A0-1C1D-4EF1-8C56-BE18D6D13154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABAE8A0-1C1D-4EF1-8C56-BE18D6D13154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABAE8A0-1C1D-4EF1-8C56-BE18D6D13154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABAE8A0-1C1D-4EF1-8C56-BE18D6D13154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E75BD3D-4320-45F4-9165-F2C8805A2DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E75BD3D-4320-45F4-9165-F2C8805A2DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E75BD3D-4320-45F4-9165-F2C8805A2DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E75BD3D-4320-45F4-9165-F2C8805A2DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AEF2DAB-2CB4-475E-B0C4-72EED944D421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEF2DAB-2CB4-475E-B0C4-72EED944D421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AEF2DAB-2CB4-475E-B0C4-72EED944D421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEF2DAB-2CB4-475E-B0C4-72EED944D421}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

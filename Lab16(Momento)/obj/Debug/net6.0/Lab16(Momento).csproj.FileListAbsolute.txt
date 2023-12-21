@@ -1,0 +1,5 @@
+D:\Repositories\objectOrientedProgramming\Lab16(Momento)\obj\Debug\net6.0\Lab16(Momento).csproj.AssemblyReference.cache
+D:\Repositories\objectOrientedProgramming\Lab16(Momento)\obj\Debug\net6.0\Lab16(Momento).GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\objectOrientedProgramming\Lab16(Momento)\obj\Debug\net6.0\Lab16(Momento).AssemblyInfoInputs.cache
+D:\Repositories\objectOrientedProgramming\Lab16(Momento)\obj\Debug\net6.0\Lab16(Momento).AssemblyInfo.cs
+D:\Repositories\objectOrientedProgramming\Lab16(Momento)\obj\Debug\net6.0\Lab16(Momento).csproj.CoreCompileInputs.cache

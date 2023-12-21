@@ -15,3 +15,15 @@ D:\Repositories\objectOrientedProgram\MazeLibrary\obj\Debug\net6.0\MazeLibrary.d
 D:\Repositories\objectOrientedProgram\MazeLibrary\obj\Debug\net6.0\refint\MazeLibrary.dll
 D:\Repositories\objectOrientedProgram\MazeLibrary\obj\Debug\net6.0\MazeLibrary.pdb
 D:\Repositories\objectOrientedProgram\MazeLibrary\obj\Debug\net6.0\ref\MazeLibrary.dll
+D:\Repositories\objectOrientedProgramming\MazeLibrary\bin\Debug\net6.0\MazeLibrary.deps.json
+D:\Repositories\objectOrientedProgramming\MazeLibrary\bin\Debug\net6.0\MazeLibrary.dll
+D:\Repositories\objectOrientedProgramming\MazeLibrary\bin\Debug\net6.0\MazeLibrary.pdb
+D:\Repositories\objectOrientedProgramming\MazeLibrary\obj\Debug\net6.0\MazeLibrary.csproj.AssemblyReference.cache
+D:\Repositories\objectOrientedProgramming\MazeLibrary\obj\Debug\net6.0\MazeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\objectOrientedProgramming\MazeLibrary\obj\Debug\net6.0\MazeLibrary.AssemblyInfoInputs.cache
+D:\Repositories\objectOrientedProgramming\MazeLibrary\obj\Debug\net6.0\MazeLibrary.AssemblyInfo.cs
+D:\Repositories\objectOrientedProgramming\MazeLibrary\obj\Debug\net6.0\MazeLibrary.csproj.CoreCompileInputs.cache
+D:\Repositories\objectOrientedProgramming\MazeLibrary\obj\Debug\net6.0\MazeLibrary.dll
+D:\Repositories\objectOrientedProgramming\MazeLibrary\obj\Debug\net6.0\refint\MazeLibrary.dll
+D:\Repositories\objectOrientedProgramming\MazeLibrary\obj\Debug\net6.0\MazeLibrary.pdb
+D:\Repositories\objectOrientedProgramming\MazeLibrary\obj\Debug\net6.0\ref\MazeLibrary.dll
